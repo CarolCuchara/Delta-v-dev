@@ -3,6 +3,7 @@
   id: ClothesMateInventory
   startingInventory:
     ClothingBackpack: 5
+    BikeHorn: 500
     ClothingBackpackDuffel: 5
     ClothingBackpackSatchel: 3
     ClothingBackpackSatchelLeather: 2
